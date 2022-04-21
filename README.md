@@ -1,2 +1,2 @@
 # stockbit_automation
-Automation UI with Selenium Frameword
+Automation UI with Selenium Framework
